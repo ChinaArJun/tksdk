@@ -2,7 +2,7 @@ package jdunionopenpositionquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.position.query 查询推广位【申请】

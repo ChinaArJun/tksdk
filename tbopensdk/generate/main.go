@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mimicode/tksdk/utils"
+	"github.com/ChinaArJun/tksdk/utils"
 	"io/ioutil"
 	"os"
 	"path/filepath"
@@ -116,7 +116,7 @@ func createAPI(apiRequest ApiInfo) {
 	}
 	//"taobaoopensdk/utils"
 	APIPARAMCHECK := createMustCheck(apiRequest.CHECKFIELDS)
-	UTIL := `"github.com/mimicode/tksdk/utils"`
+	UTIL := `"github.com/ChinaArJun/tksdk/utils"`
 	APINAME := strings.Replace(apiRequest.APIORGNAME, "taobao.", "", -1)
 
 	DIRNAME := strings.Replace(apiRequest.APIORGNAME, ".", "", -1)

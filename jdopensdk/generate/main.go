@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mimicode/tksdk/utils"
+	"github.com/ChinaArJun/tksdk/utils"
 	"io/ioutil"
 	"os"
 	"path/filepath"
@@ -113,7 +113,7 @@ func createAPI(apiRequest ApiInfo) {
 		panic(err)
 	}
 	APIPARAMCHECK := createMustCheck(apiRequest.CHECKFIELDS)
-	UTIL := `"github.com/mimicode/tksdk/utils"`
+	UTIL := `"github.com/ChinaArJun/tksdk/utils"`
 	DIRNAME := strings.ToLower(strings.Replace(apiRequest.APIORGNAME, ".", "", -1))
 	FILENAME := DIRNAME + ".go"
 	APINAME := utils.StrFirstToUpper(apiRequest.APIORGNAME, ".")

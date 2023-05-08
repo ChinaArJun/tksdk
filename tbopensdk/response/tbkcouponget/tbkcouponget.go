@@ -2,7 +2,7 @@ package tbkcouponget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.coupon.get( 阿里妈妈推广券信息查询 )

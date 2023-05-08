@@ -1,23 +1,23 @@
 # 淘客sdk
 
-- [京东](https://github.com/mimicode/tksdk/tree/main/jdopensdk)
-- [淘宝](https://github.com/mimicode/tksdk/tree/main/tbopensdk)
-- [阿里本地生活API](https://github.com/mimicode/tksdk/tree/main/alscopensdk)
-- [拼多多](https://github.com/mimicode/tksdk/tree/main/pddopensdk)
-- [苏宁](https://github.com/mimicode/tksdk/tree/main/snopensdk)
-- [唯品会](https://github.com/mimicode/tksdk/tree/main/vipopensdk)
+- [京东](https://github.com/ChinaArJun/tksdk/tree/main/jdopensdk)
+- [淘宝](https://github.com/ChinaArJun/tksdk/tree/main/tbopensdk)
+- [阿里本地生活API](https://github.com/ChinaArJun/tksdk/tree/main/alscopensdk)
+- [拼多多](https://github.com/ChinaArJun/tksdk/tree/main/pddopensdk)
+- [苏宁](https://github.com/ChinaArJun/tksdk/tree/main/snopensdk)
+- [唯品会](https://github.com/ChinaArJun/tksdk/tree/main/vipopensdk)
 ## Installation
 
 Download and install it:
 
 ```sh
-$ go get -u github.com/mimicode/tksdk
+$ go get -u github.com/ChinaArJun/tksdk
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/mimicode/tksdk/tbopensdk"
+import "github.com/ChinaArJun/tksdk/tbopensdk"
 ```
 Examples
 ```go

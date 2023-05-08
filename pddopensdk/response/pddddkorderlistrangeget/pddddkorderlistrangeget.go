@@ -2,7 +2,7 @@ package pddddkorderlistrangeget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.order.list.range.get用时间段查询推广订单接口

@@ -2,7 +2,7 @@ package tbkscpublisherinfosave
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.publisher.info.save( 淘宝客渠道信息备案 - 社交 )

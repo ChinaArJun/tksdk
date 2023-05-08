@@ -1,7 +1,7 @@
 package request
 
 import (
-	utils "github.com/mimicode/tksdk/utils"
+	utils "github.com/ChinaArJun/tksdk/utils"
 	"net/url"
 )
 

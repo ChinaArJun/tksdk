@@ -2,7 +2,7 @@ package jdunionopenactivityrecommendquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.activity.recommend.query 提供联盟官方活动查询

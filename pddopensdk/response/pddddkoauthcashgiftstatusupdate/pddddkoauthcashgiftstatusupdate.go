@@ -2,7 +2,7 @@ package pddddkoauthcashgiftstatusupdate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.cashgift.status.update多多礼金状态更新

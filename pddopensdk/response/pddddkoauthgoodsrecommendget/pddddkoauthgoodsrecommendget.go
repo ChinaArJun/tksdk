@@ -2,7 +2,7 @@ package pddddkoauthgoodsrecommendget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.goods.recommend.get运营频道商品查询API

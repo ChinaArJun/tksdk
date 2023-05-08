@@ -2,7 +2,7 @@ package --PACKNAME--
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/snopensdk/response"
+	"github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //--APIDESC--

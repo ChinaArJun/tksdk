@@ -2,7 +2,7 @@ package comvipadpapiopenserviceunionurlserviceviplinkcheckwithouth
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/vipopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/vipopensdk/response"
 )
 
 //com.vip.adp.api.open.service.UnionUrlService 检测一段文本中是否有唯品会链接-需要oauth授权

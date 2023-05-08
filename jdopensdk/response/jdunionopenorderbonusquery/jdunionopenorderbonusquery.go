@@ -2,7 +2,7 @@ package jdunionopenorderbonusquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.order.bonus.query 奖励订单查询接口

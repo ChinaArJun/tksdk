@@ -2,7 +2,7 @@ package suningnetallianceorderget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.order.get 网盟订单信息单独查询

@@ -2,7 +2,7 @@ package suningnetallianceselectrecommendcommodityquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.selectrecommendcommodity.query 商品精选接口

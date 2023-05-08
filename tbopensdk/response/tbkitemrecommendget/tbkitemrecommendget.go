@@ -2,7 +2,7 @@ package tbkitemrecommendget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.item.recommend.get( 淘宝客商品关联推荐查询 )
@@ -33,18 +33,18 @@ type Results struct {
 }
 
 type NTbkItem struct {
-	ItemURL      string                         `json:"item_url"`
-	Nick         string                         `json:"nick"`
-	NumIid       int64                          `json:"num_iid"`
-	PictURL      string                         `json:"pict_url"`
-	Provcity     string                         `json:"provcity"`
-	ReservePrice string                         `json:"reserve_price"`
-	SellerID    int64       `json:"seller_id"`
-	SmallImages SmallImages `json:"small_images"`
-	Title       string      `json:"title"`
-	UserType     int64                          `json:"user_type"`
-	Volume       int64                          `json:"volume"`
-	ZkFinalPrice string                         `json:"zk_final_price"`
+	ItemURL      string      `json:"item_url"`
+	Nick         string      `json:"nick"`
+	NumIid       int64       `json:"num_iid"`
+	PictURL      string      `json:"pict_url"`
+	Provcity     string      `json:"provcity"`
+	ReservePrice string      `json:"reserve_price"`
+	SellerID     int64       `json:"seller_id"`
+	SmallImages  SmallImages `json:"small_images"`
+	Title        string      `json:"title"`
+	UserType     int64       `json:"user_type"`
+	Volume       int64       `json:"volume"`
+	ZkFinalPrice string      `json:"zk_final_price"`
 }
 
 type SmallImages struct {

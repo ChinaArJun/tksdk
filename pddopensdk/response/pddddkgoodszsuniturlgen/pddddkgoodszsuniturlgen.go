@@ -2,7 +2,7 @@ package pddddkgoodszsuniturlgen
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.goods.zs.unit.url.gen多多进宝转链接口

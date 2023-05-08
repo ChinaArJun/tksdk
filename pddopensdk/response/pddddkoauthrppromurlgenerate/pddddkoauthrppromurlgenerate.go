@@ -2,7 +2,7 @@ package pddddkoauthrppromurlgenerate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.rp.prom.url.generate生成营销工具推广链接

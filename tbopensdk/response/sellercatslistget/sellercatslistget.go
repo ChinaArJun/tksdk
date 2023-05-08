@@ -2,7 +2,7 @@ package sellercatslistget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.sellercats.list.get( 获取前台展示的店铺内卖家自定义商品类目 )

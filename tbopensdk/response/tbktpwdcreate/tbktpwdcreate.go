@@ -2,7 +2,7 @@ package tbktpwdcreate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.tpwd.create( 淘宝客淘口令 )

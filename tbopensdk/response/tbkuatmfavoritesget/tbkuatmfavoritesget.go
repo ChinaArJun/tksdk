@@ -2,7 +2,7 @@ package tbkuatmfavoritesget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // Response  taobao.tbk.uatm.favorites.get( 获取淘宝联盟选品库列表 )

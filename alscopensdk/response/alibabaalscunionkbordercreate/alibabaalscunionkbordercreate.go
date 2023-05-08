@@ -3,7 +3,7 @@ package alibabaalscunionkbordercreate
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.order.create( openapi订单创建 )

@@ -2,7 +2,7 @@ package pddddkgoodspidgenerate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.goods.pid.generate（创建多多进宝推广位)

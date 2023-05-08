@@ -2,7 +2,7 @@ package jdunionopenstatisticsredpacketagentquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.statistics.redpacket.agent.query 工具商查询帮助其他推客转的链接的红包发放数据

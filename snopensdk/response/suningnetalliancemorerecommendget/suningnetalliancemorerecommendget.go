@@ -2,7 +2,7 @@ package suningnetalliancemorerecommendget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.morerecommend.get 关联商品推荐接口

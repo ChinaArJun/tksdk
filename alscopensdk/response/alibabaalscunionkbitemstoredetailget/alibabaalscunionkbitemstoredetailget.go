@@ -3,7 +3,7 @@ package alibabaalscunionkbitemstoredetailget
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.item.store.detail.get( 本地联盟口碑门店详情 )

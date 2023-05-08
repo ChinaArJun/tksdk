@@ -2,7 +2,7 @@ package tbkscorderdetailsget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.order.details.get( 淘宝客【服务商】所有订单查询 )

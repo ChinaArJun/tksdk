@@ -2,7 +2,7 @@ package jdunionopenstatisticsredpacketquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.statistics.redpacket.query 京享红包效果数据

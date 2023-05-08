@@ -2,7 +2,7 @@ package pddddkoauthgoodssearch
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.goods.search多多进宝商品查询

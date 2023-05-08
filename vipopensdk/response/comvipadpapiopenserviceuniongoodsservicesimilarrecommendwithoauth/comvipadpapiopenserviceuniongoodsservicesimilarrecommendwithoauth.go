@@ -2,7 +2,7 @@ package comvipadpapiopenserviceuniongoodsservicesimilarrecommendwithoauth
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/vipopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/vipopensdk/response"
 )
 
 //com.vip.adp.api.open.service.UnionGoodsService 相似推荐商品列表-需要oauth授权

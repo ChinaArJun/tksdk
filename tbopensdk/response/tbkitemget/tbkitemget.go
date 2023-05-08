@@ -2,7 +2,7 @@ package tbkitemget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.item.get( 淘宝客商品查询 )
@@ -26,7 +26,7 @@ func (t *Response) WrapResult(result string) {
 type Result struct {
 	Results      Results `json:"results"`
 	TotalResults int64   `json:"total_results"`
-	RequestID    string            `json:"request_id"`
+	RequestID    string  `json:"request_id"`
 }
 
 type Results struct {
@@ -34,18 +34,18 @@ type Results struct {
 }
 
 type NTbkItem struct {
-	ItemURL      string                `json:"item_url"`
-	Nick         string                `json:"nick"`
-	NumIid       int64                 `json:"num_iid"`
-	PictURL      string                `json:"pict_url"`
-	Provcity     string                `json:"provcity"`
-	ReservePrice string                `json:"reserve_price"`
-	SellerID    int64       `json:"seller_id"`
-	SmallImages SmallImages `json:"small_images"`
-	Title       string      `json:"title"`
-	UserType     int64                 `json:"user_type"`
-	Volume       int64                 `json:"volume"`
-	ZkFinalPrice string                `json:"zk_final_price"`
+	ItemURL      string      `json:"item_url"`
+	Nick         string      `json:"nick"`
+	NumIid       int64       `json:"num_iid"`
+	PictURL      string      `json:"pict_url"`
+	Provcity     string      `json:"provcity"`
+	ReservePrice string      `json:"reserve_price"`
+	SellerID     int64       `json:"seller_id"`
+	SmallImages  SmallImages `json:"small_images"`
+	Title        string      `json:"title"`
+	UserType     int64       `json:"user_type"`
+	Volume       int64       `json:"volume"`
+	ZkFinalPrice string      `json:"zk_final_price"`
 }
 
 type SmallImages struct {

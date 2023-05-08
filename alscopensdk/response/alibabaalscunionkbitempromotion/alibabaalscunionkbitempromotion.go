@@ -3,7 +3,7 @@ package alibabaalscunionkbitempromotion
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.item.promotion( 本地生活媒体平台口碑选品 )

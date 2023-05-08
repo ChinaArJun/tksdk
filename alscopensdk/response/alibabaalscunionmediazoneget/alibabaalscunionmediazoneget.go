@@ -3,7 +3,7 @@ package alibabaalscunionmediazoneget
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.media.zone.get( 本地生活媒体推广位查询 )

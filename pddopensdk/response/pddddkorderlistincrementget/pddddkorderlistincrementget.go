@@ -2,7 +2,7 @@ package pddddkorderlistincrementget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.order.list.increment.get（最后更新时间段增量同步推广订单信息）

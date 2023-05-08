@@ -2,7 +2,7 @@ package pddddkoauthgoodspromurlgenerate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.goods.prom.url.generate生成多多进宝推广链接

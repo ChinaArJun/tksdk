@@ -3,7 +3,7 @@ package alibabaalscunionkbbbtitemstorerelationquery
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.bbt.item.store.relation.query( 本地联盟爆爆团商品门店关系 )

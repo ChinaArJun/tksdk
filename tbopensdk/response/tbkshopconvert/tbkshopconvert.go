@@ -2,7 +2,7 @@ package tbkshopconvert
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.shop.convert( 淘宝客店铺链接转换 )

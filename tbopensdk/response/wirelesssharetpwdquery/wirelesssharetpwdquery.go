@@ -2,7 +2,7 @@ package wirelesssharetpwdquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.wireless.share.tpwd.query( 查询解析淘口令 )

@@ -2,7 +2,7 @@ package suningnetallianceriskmanagementorderquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.riskmanagementorder.query 风控订单查询

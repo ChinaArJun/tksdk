@@ -2,7 +2,7 @@ package jdunionopengoodspromotiongoodsinfoquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.goods.promotiongoodsinfo.query 通过SKUID查询推广商品

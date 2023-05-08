@@ -2,7 +2,7 @@ package pddddkrppromurlgenerate
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.rp.prom.url.generate生成营销工具推广链接

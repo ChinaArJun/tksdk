@@ -2,7 +2,7 @@ package suningnetalliancecustompromotionurlquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.custompromotionurl.query 获取自定义推广链接接口

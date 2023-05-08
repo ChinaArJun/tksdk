@@ -3,7 +3,7 @@ package alibabaalscunionkbbbtitempromotionfilterlist
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.bbt.item.promotion.filter.list( 本地生活爆爆团选品筛选集合 )

@@ -3,7 +3,7 @@ package taobaotbkitemclickextract
 import (
 	"encoding/json"
 
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // taobao.tbk.item.click.extract( 淘宝客-公用-链接解析出商品id )

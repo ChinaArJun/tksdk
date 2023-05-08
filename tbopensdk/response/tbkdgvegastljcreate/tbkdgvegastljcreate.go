@@ -3,7 +3,7 @@ package tbkdgvegastljcreate
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.dg.vegas.tlj.create( 淘宝客-推广者-淘礼金创建 )

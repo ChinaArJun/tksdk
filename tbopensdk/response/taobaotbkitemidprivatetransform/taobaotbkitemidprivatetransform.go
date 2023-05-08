@@ -2,7 +2,7 @@ package taobaotbkitemidprivatetransform
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // taobao.tbk.itemid.private.transform( 淘宝客-推广者-商品id转化（二方）（专有） )

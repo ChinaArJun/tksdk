@@ -2,7 +2,7 @@ package tbkitemconvert
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.item.convert( 淘宝客商品链接转换 )

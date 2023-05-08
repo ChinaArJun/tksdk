@@ -2,7 +2,7 @@ package jdunionopenorderrowquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.order.row.query 查询推广订单及佣金信息

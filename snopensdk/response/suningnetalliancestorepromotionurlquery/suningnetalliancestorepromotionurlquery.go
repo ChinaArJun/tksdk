@@ -2,7 +2,7 @@ package suningnetalliancestorepromotionurlquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.storepromotionurl.query 获取商品或店铺推广链接接口

@@ -2,7 +2,7 @@ package pddddkresourceurlgen
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.resource.url.gen（生成多多进宝频道推广）

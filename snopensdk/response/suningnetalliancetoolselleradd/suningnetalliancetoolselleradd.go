@@ -2,7 +2,7 @@ package suningnetalliancetoolselleradd
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.toolseller.add 生成工具商PID接口

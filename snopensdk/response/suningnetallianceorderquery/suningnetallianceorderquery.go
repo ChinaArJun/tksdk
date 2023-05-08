@@ -2,7 +2,7 @@ package suningnetallianceorderquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.order.query 网盟订单信息批量查询

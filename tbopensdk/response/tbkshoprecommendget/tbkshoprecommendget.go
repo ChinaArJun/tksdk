@@ -2,7 +2,7 @@ package tbkshoprecommendget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.shop.recommend.get( 淘宝客店铺关联推荐查询 )

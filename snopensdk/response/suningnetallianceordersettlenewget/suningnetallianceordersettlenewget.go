@@ -2,7 +2,7 @@ package suningnetallianceordersettlenewget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.ordersettlenew.get 订单结算信息接口

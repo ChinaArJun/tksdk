@@ -2,7 +2,7 @@ package jdunionopenpositioncreate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.position.create 创建推广位【申请】

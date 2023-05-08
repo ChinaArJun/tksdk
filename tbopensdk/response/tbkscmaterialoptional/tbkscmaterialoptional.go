@@ -3,7 +3,7 @@ package tbkscmaterialoptional
 import (
 	"encoding/json"
 
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // taobao.tbk.sc.material.optional( 通用物料搜索API )

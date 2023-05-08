@@ -2,7 +2,7 @@ package juitemssearch
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.ju.items.search( 聚划算商品搜索接口 )

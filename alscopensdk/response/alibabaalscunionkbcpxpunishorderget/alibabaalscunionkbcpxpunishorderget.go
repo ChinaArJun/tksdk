@@ -3,7 +3,7 @@ package alibabaalscunionkbcpxpunishorderget
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kbcpx.punish.order.get( 本地生活媒体推广用户反作弊订单数据报表 )

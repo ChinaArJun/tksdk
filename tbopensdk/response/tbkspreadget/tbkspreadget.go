@@ -2,7 +2,7 @@ package tbkspreadget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.spread.get( 物料传播方式获取 )
@@ -26,7 +26,7 @@ func (t *Response) WrapResult(result string) {
 type Result struct {
 	Results      Results `json:"results"`
 	TotalResults int64   `json:"total_results"`
-	RequestID    string              `json:"request_id"`
+	RequestID    string  `json:"request_id"`
 }
 
 type Results struct {

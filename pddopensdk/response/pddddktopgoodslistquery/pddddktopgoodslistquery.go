@@ -2,7 +2,7 @@ package pddddktopgoodslistquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.top.goods.list.query（多多客获取爆款排行商品接口）

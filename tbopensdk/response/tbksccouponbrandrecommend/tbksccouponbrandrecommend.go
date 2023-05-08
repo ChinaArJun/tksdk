@@ -2,7 +2,7 @@ package tbksccouponbrandrecommend
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.coupon.brand.recommend( 品牌券API【社交】 )

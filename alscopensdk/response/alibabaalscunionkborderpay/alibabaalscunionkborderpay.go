@@ -3,7 +3,7 @@ package alibabaalscunionkborderpay
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.order.pay( openapi预下单订单支付 )

@@ -2,7 +2,7 @@ package suningnetallianceinverstmentcommodityquery
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.inverstmentcommodity.query 高佣专区商品查询接口

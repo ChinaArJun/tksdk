@@ -2,7 +2,7 @@ package tbkactivitylinkget
 
 import (
 	json "encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.activitylink.get( 淘宝联盟官方活动推广API-媒体 )

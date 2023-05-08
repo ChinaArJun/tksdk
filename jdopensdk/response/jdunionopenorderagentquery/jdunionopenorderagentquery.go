@@ -2,7 +2,7 @@ package jdunionopenorderagentquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.order.agent.query 工具商订单行查询接口

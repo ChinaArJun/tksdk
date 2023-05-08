@@ -2,7 +2,7 @@ package comvipadpapiopenserviceunionurlservicegenbyvipurlwithoauth
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/vipopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/vipopensdk/response"
 )
 
 //com.vip.adp.api.open.service.UnionUrlService 根据唯品会链接生成联盟链接-需要oauth授权

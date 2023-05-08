@@ -2,7 +2,7 @@ package tbkscactivityinfoget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.activity.info.get( 淘宝客-服务商-官方活动信息获取 新接口 )

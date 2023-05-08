@@ -2,7 +2,7 @@ package shopgetbytitle
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.shop.getbytitle( 根据店铺名称获取店铺信息 )

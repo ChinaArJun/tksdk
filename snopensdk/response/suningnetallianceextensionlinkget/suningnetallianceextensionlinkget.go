@@ -2,7 +2,7 @@ package suningnetallianceextensionlinkget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.extensionlink.get 商品和券二合一接口

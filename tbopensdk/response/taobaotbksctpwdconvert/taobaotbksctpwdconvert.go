@@ -3,7 +3,7 @@ package taobaotbksctpwdconvert
 import (
 	"encoding/json"
 
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // taobao.tbk.sc.tpwd.convert( 淘宝客-服务商-淘口令解析&转链 )

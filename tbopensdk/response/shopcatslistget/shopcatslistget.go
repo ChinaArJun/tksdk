@@ -2,7 +2,7 @@ package shopcatslistget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.shopcats.list.get( 获取前台展示的店铺类目 )

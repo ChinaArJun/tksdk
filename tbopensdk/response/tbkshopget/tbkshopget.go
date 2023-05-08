@@ -2,7 +2,7 @@ package tbkshopget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.shop.get( 淘宝客店铺查询 )

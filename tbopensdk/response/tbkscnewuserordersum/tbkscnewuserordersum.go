@@ -2,7 +2,7 @@ package tbkscnewuserordersum
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.newuser.tborder.sum( 拉新活动汇总API--社交 )

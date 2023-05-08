@@ -2,7 +2,7 @@ package tbkdgoptimusmaterial
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 // taobao.tbk.dg.optimus.material( 淘宝客物料下行-导购 )

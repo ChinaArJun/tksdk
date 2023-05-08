@@ -2,7 +2,7 @@ package jdunionopencategorygoodsget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response jd.union.open.category.goods.get 根据商品的父类目id查询子类目id信息

@@ -2,7 +2,7 @@ package request
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/utils"
+	"github.com/ChinaArJun/tksdk/utils"
 	"net/url"
 )
 

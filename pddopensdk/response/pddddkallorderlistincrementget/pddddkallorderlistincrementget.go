@@ -2,7 +2,7 @@ package pddddkallorderlistincrementget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.all.order.list.increment.get查询所有授权的多多客订单

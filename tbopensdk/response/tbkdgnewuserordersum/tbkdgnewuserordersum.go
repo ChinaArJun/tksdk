@@ -2,7 +2,7 @@ package tbkdgnewuserordersum
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.dg.newuser.tborder.sum( 拉新活动汇总API--导购 )
@@ -33,8 +33,8 @@ type ResponseResults struct {
 }
 
 type Data struct {
-	HasNext  bool                            `json:"has_next"`
-	PageNo   int64                           `json:"page_no"`
+	HasNext  bool        `json:"has_next"`
+	PageNo   int64       `json:"page_no"`
 	PageSize int64       `json:"page_size"`
 	Results  DataResults `json:"results"`
 }

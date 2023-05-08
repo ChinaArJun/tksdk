@@ -2,7 +2,7 @@ package tbkscnewuserorderget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.newuser.tborder.get( 淘宝客新用户订单API--社交 )

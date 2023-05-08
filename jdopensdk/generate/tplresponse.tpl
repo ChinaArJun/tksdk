@@ -2,7 +2,7 @@ package --PACKAGENAME--
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/jdopensdk/response"
+	"github.com/ChinaArJun/tksdk/jdopensdk/response"
 )
 
 // Response --APIDESC--

@@ -3,7 +3,7 @@ package alibabaalscunionkbbbtitemdetailget
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.bbt.item.detail.get( 本地联盟爆爆团商品详情 )

@@ -3,7 +3,7 @@ package --APINAME--
 import (
 	"encoding/json"
     "fmt"
-    "github.com/mimicode/tksdk/eleopensdk/response"
+    "github.com/ChinaArJun/tksdk/eleopensdk/response"
 )
 
 // Response --APIDESC--

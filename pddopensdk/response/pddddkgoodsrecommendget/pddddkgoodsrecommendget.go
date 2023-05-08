@@ -2,7 +2,7 @@ package pddddkgoodsrecommendget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.goods.recommend.get多多进宝商品推荐API

@@ -2,7 +2,7 @@ package pddddklotteryurlgen
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/pddopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 //pdd.ddk.lottery.url.gen多多客生成转盘抽免单url

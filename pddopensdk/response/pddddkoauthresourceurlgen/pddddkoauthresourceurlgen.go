@@ -2,7 +2,7 @@ package pddddkoauthresourceurlgen
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.resource.url.gen拼多多主站频道推广接口

@@ -2,7 +2,7 @@ package tbkscinvitecodeget
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/tbopensdk/response"
+	"github.com/ChinaArJun/tksdk/tbopensdk/response"
 )
 
 //taobao.tbk.sc.invitecode.get( 淘宝客邀请码生成-社交 )

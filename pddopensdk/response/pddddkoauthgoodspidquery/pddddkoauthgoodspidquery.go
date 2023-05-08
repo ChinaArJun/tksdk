@@ -2,7 +2,7 @@ package pddddkoauthgoodspidquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.goods.pid.query多多客已生成推广位信息查询

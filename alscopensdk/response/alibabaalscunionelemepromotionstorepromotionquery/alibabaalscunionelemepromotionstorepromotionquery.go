@@ -3,7 +3,7 @@ package alibabaalscunionelemepromotionstorepromotionquery
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.eleme.promotion.storepromotion.query( 本地联盟饿了么单店推广店铺列表 )

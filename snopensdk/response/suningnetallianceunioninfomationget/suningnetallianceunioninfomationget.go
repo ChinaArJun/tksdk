@@ -2,7 +2,7 @@ package suningnetallianceunioninfomationget
 
 import (
 	"encoding/json"
-	response2 "github.com/mimicode/tksdk/snopensdk/response"
+	response2 "github.com/ChinaArJun/tksdk/snopensdk/response"
 )
 
 //suning.netalliance.unioninfomation.get 单个查询联盟商品信息

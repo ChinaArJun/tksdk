@@ -2,7 +2,7 @@ package pddddkoauthpidmediaidbind
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.pid.mediaid.bind批量绑定推广位的媒体id

@@ -2,7 +2,7 @@ package pddddkoauthgoodspidgenerate
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.goods.pid.generate多多进宝推广位创建接口

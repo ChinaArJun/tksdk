@@ -3,7 +3,7 @@ package alibabaalscunionkbitempromotionsharecreate
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mimicode/tksdk/alscopensdk/response"
+	"github.com/ChinaArJun/tksdk/alscopensdk/response"
 )
 
 // Response alibaba.alsc.union.kb.item.promotion.share.create( 本地生活媒体创建商品推广链接 )

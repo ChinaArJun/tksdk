@@ -2,7 +2,7 @@ package comvipadpapiopenserviceuniongoodsservicegetbygoodsidsv2withoauth
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/vipopensdk/response"
+	"github.com/ChinaArJun/tksdk/vipopensdk/response"
 )
 
 // com.vip.adp.api.open.service.UnionGoodsService 获取指定商品id集合的商品信息(新)-需要oauth授权

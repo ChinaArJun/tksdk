@@ -2,7 +2,7 @@ package pddddkoauthmemberauthorityquery
 
 import (
 	"encoding/json"
-	"github.com/mimicode/tksdk/pddopensdk/response"
+	"github.com/ChinaArJun/tksdk/pddopensdk/response"
 )
 
 // Response pdd.ddk.oauth.member.authority.query查询是否绑定备案
